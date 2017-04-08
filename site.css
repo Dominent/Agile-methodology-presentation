@@ -1,0 +1,11 @@
+img.noborder {
+  background:none; 
+  border:none !important; 
+  box-shadow:none;
+}
+
+.text-muted {
+  font-size: 25px !important;
+  color: black;
+  opacity: 0.5;
+}
