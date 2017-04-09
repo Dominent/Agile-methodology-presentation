@@ -9,3 +9,8 @@ img.noborder {
   color: black;
   opacity: 0.5;
 }
+
+.text-subject {
+  color:#00008B;
+  text-decoration: underline;
+}
